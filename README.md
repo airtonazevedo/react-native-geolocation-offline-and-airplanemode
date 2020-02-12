@@ -2,9 +2,13 @@
 
 A simple solution for offline location and airplane mode in react-native
 
-### Instructions
+### Instructions to test
+* Clone the repository
+* Run **yarn install**
+* Run **npx react-native run-android** or **npx react-native run-ios**
 
-* To obtain the location we use the [react-native-map-box-gl package](https://github.com/react-native-mapbox-gl/maps)
+### For use in your project
+* You need install and configure the [react-native-map-box-gl](https://github.com/react-native-mapbox-gl/maps) package
 * Don't need access token
 
 ### Complete Example
